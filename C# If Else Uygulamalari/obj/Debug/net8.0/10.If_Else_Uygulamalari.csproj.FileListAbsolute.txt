@@ -1,0 +1,14 @@
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\bin\Debug\net8.0\10.If_Else_Uygulamalari.exe
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\bin\Debug\net8.0\10.If_Else_Uygulamalari.deps.json
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\bin\Debug\net8.0\10.If_Else_Uygulamalari.runtimeconfig.json
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\bin\Debug\net8.0\10.If_Else_Uygulamalari.dll
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\bin\Debug\net8.0\10.If_Else_Uygulamalari.pdb
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\obj\Debug\net8.0\10.If_Else_Uygulamalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\obj\Debug\net8.0\10.If_Else_Uygulamalari.AssemblyInfoInputs.cache
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\obj\Debug\net8.0\10.If_Else_Uygulamalari.AssemblyInfo.cs
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\obj\Debug\net8.0\10.If_Else_Uygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\obj\Debug\net8.0\10.If_Else_Uygulamalari.dll
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\obj\Debug\net8.0\refint\10.If_Else_Uygulamalari.dll
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\obj\Debug\net8.0\10.If_Else_Uygulamalari.pdb
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\obj\Debug\net8.0\10.If_Else_Uygulamalari.genruntimeconfig.cache
+C:\Users\yucel\Desktop\C# Dersleri\10.If_Else_Uygulamalari\obj\Debug\net8.0\ref\10.If_Else_Uygulamalari.dll
